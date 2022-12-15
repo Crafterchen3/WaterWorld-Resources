@@ -2,7 +2,8 @@
     "item.minecraft.music_disc_cat": "§fSawblade",
     "item.minecraft.music_disc_cat.desc": "Dont cut yourself",  
     "item.minecraft.music_disc_13": "§fCobblestone Bucket",
-    "item.minecraft.music_disc_13.desc": "A Bucket full of cobllestone",
+    "item.minecraft.music_disc_13.desc": "A Bucket full of cobblestone",
+    "block.minecraft.carved_pumpkin": "Glass Helmet",
     "block.minecraft.lime_terracotta": "Impure Ore I",
     "block.minecraft.green_terracotta": "Impure Ore II",
     "block.minecraft.yellow_terracotta": "Impure Ore III",
@@ -19,7 +20,18 @@
     "commands.forceload.added.none": "Craft Impure Ore III",
     "commands.forceload.removed.all": "DIAMONDS!",
     "commands.forceload.removed.failure": "Craft Impure Ore IV",
-    "commands.forceload.removed.single": "Unmarked chunk %s in %s for force loading",
-    "commands.forceload.removed.multiple": "Unmarked %s chunks in %s from %s to %s for force loading",
-    "commands.forceload.toobig": "Too many chunks in the specified area (maximum %s, specified %s)"
-  }
+    "commands.forceload.removed.single": "Finally, I'm starving.",
+    "commands.forceload.removed.multiple": "Smelt dried kelb",
+    "commands.forceload.toobig": "blob blob blob ...",
+    "commands.attribute.failed.entity": "Craft a Glass Helmet",
+    "commands.attribute.failed.no_attribute": "Entity %s has no attribute %s",
+    "commands.attribute.failed.no_modifier": "Attribute %s for entity %s has no modifier %s",
+    "commands.attribute.failed.modifier_already_present": "Modifier %s is already present on attribute %s for entity %s",
+    "commands.attribute.value.get.success": "Value of attribute %s for entity %s is %s",
+    "commands.attribute.base_value.get.success": "Base value of attribute %s for entity %s is %s",
+    "commands.attribute.base_value.set.success": "Base value for attribute %s for entity %s set to %s",
+    "commands.attribute.modifier.add.success": "Added modifier %s to attribute %s for entity %s",
+    "commands.attribute.modifier.remove.success": "Removed modifier %s from attribute %s for entity %s",
+    "commands.attribute.modifier.value.get.success": "Value of modifier %s on attribute %s for entity %s is %s"
+  
+}
