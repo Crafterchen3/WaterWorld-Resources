@@ -62,5 +62,12 @@
     "commands.effect.clear.everything.success.single": "Removed every effect from %s",
     "commands.effect.clear.everything.success.multiple": "Removed every effect from %s targets",
     "commands.effect.clear.specific.success.single": "Removed effect %s from %s",
+    "selectWorld.mapType": "",
+    "generator.minecraft.debug_all_block_states": "World Type: Debug Mode :",
+    "generator.minecraft.flat": "World Type: Superflat",
+    "generator.minecraft.large_biomes": "World Type: Large Biomes :",
+    "generator.minecraft.normal": "\uE999\uE998 :",
+    "generator.minecraft.single_biome_surface": "World Type: Single Biome :",
+    "generator.minecraft.amplified": "World Type: AMPLIFIED :",
     "commands.effect.clear.specific.success.multiple": "Removed effect %s from %s targets"
 }
